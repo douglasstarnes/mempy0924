@@ -6,6 +6,8 @@ It relies upon four packages listed in the `requirements.txt` file:
  * `rich` - formats the output of the commands
  * `sqlalchemy` - an ORM so that the application can access a database using Python objects instead of SQL statements
 
+The YouTube playlist (work in progress) the live codes the example is located at [https://www.youtube.com/playlist?list=PLx_MamJPwgQMS0ckghS8RFuSkcKjckuNs](https://www.youtube.com/playlist?list=PLx_MamJPwgQMS0ckghS8RFuSkcKjckuNs)
+
 The easiest way to get started with the code is to open it in GitHub Codespaces.  In the repository, click the **Code** button and the **Codespaces** tab.  Then click the **Create codespace on main** button.
 
 ![Snag_20f32cd8](https://github.com/user-attachments/assets/8fb01859-bbbf-4b54-bafa-e48f6b928c7e)
